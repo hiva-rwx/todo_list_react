@@ -1,0 +1,9 @@
+body{
+    overflow-x: hidden;
+}
+.isCheck{
+    border-right: 5px solid rgb(13, 156, 32);
+}
+.isNotCheck{
+    border-right: 5px solid tomato;
+}
